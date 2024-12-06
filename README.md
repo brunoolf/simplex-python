@@ -1,5 +1,4 @@
 # Método simplex em python
-</br>
 
 ## Sobre
 Este projeto é uma implementação do Método Simplex utilizando a biblioteca Pulp do Python. O código resolve problemas de programação linear para maximizar uma função objetivo sujeita a restrições. Ele permite que o usuário insira os coeficientes e restrições diretamente pelo terminal, fornecendo a solução ótima para o problema formulado.
